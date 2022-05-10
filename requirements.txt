@@ -1,0 +1,4 @@
+pygame
+requests
+vk_api
+flask
